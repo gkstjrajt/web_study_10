@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+h2 {
+	text-align: center;
+	font-size: 36px;
+}
+
+table {
+	width: 95%;
+	max-width: 850px;
+	margin: 0 auto;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+table thead td {
+	font-weight: bold;
+	border: 1px solid #ddd;
+	border-top: 0;
+	background: #f3f3f3;
+	padding-top: 0;
+}
+
+table tbody td {
+	padding: 13px 5px;
+	border: 1px solid #ddd;
+	border-top: 0;
+}
+
+#boxes {
+	margin: 0 auto;
+	text-align: center;
+}
